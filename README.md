@@ -1,0 +1,2 @@
+# verseterminal
+bigdata smartcampus
