@@ -1,6 +1,9 @@
 # Bigdata Smart Campus Service Idea
 빅데이터를 활용한 스마트 캠퍼스 서비스 아이디어
 
+# Link
+https://sweet-salamander-a560be.netlify.app/
+
 ## Topic
 ### 공모전, 프로젝트, 스터디 등을 내가 원하는 분야에 희망하는 역할로 든든한 팀원과 매칭해드려요.
 
