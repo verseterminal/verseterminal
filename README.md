@@ -66,5 +66,5 @@
   ## Authors
 
 * **SeongSu Kim** - [Github](https://github.com/byeolss)
-* **Jihoon Kim** - [Github](https://github.com/jh201)
+* **Jihoon Kim** - [Github](https://github.com/jh1201)
 * **TaeRi Kim** - [Github](https://github.com/taerri)
