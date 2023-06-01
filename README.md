@@ -17,8 +17,8 @@
   <sub>수 많은 공모전 참가자들을 빅테이터로 분석해 현재 내 강점과 약점을 알려드려요.</sub>
   
   
-  ## Team Matching
-  ### Data
+ ## Team Matching
+ ### Data
   
   - 관심 분야   
   <sub> 1. 기획/아이디어   
