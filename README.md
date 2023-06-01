@@ -62,3 +62,9 @@
   - 공모전 경험   
   <sub> 1. 없음</sub>    
   <sub> 2. 있음</sub> 
+  
+  ## Authors
+
+* **SeongSu Kim** - [Github](https://github.com/byeolss)
+* **Jihoon Kim** - [Github](https://github.com/jh201)
+* **TaeRi Kim** - [Github](https://github.com/taerri)
